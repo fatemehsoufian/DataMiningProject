@@ -10,7 +10,7 @@ This Python project is composed of multiple parts aimed at various data processi
   
   Throughout the project, the matplotlib library is utilized to visualize the outputs at appropriate stages. Matplotlib is a popular data visualization library in Python, which allows for the creation of various types of plots and charts to represent the analyzed data effectively.
   
-  By combining these different components, the project aims to provide a comprehensive framework for data preprocessing, statistical comparison, keyword extraction, and frequent pattern and association rule extraction
+  By combining these different components, the project aims to provide a comprehensive framework for data preprocessing, statistical comparison, keyword extraction, and frequent pattern and association rule extraction.
 
   ## Prerequisites
 
