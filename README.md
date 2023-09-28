@@ -1,4 +1,5 @@
 # data-mining-course-project
+This project was a teamwork with my teammate [@alireza-dehghan-nayeri](https://github.com/alireza-dehghan-nayeri)
 ## Description
 
 This project consists of three phases, each focusing on different aspects of data collection, preprocessing, analysis, and clustering. The project aims to collect data about courses from The University of Newcastle, Australia website, preprocess the collected data, extract keywords using [BERT](https://huggingface.co/docs/transformers/model_doc/bert), perform statistical comparisons, and finally apply BERT-based vectorization and clustering algorithms. The project utilizes [Selenium](https://www.selenium.dev/) and [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) for web crawling, [NLTK](https://www.nltk.org/) for text preprocessing, [MLxtend](https://rasbt.github.io/mlxtend/) for frequent pattern extraction and association rule mining, and [Matplotlib](https://matplotlib.org/) for data visualization.
