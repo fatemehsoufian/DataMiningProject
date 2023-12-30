@@ -19,4 +19,4 @@ Phase 1 consists of the following parts:
 
 ## Phase 2: BERT Vectorization and Clustering (Python, BERT)
 
-In the final phase, the clean dataset obtained from Phase 1 is used. The data is converted into numerical vectors using BERT, which captures the semantic meaning of the text. These vectors are then utilized to implement various clustering algorithms, such as K-means, DBSCAN, or Agglomerative Clustering. The outputs of the clustering, along with any evaluation metrics, are visualized using Matplotlib.
+In the final phase, the clean dataset obtained from phase 1 is used. The data is converted into numerical vectors using BERT, which captures the semantic meaning of the text. These vectors are then utilized to implement various clustering algorithms, such as K-means, DBSCAN, or Agglomerative Clustering. The outputs of the clustering, along with any evaluation metrics, are visualized using Matplotlib.
