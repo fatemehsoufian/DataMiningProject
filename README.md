@@ -10,7 +10,7 @@ The first phase involves crawling The University of Newcastle, Australia website
 
 ## Phase 1: Data Preprocessing and Analysis (Python, NLTK, Matplotlib)
 
-Phase 2 consists of the following parts:
+Phase 1 consists of the following parts:
 
 1. Data preprocessing: A class is implemented to preprocess the CSV file obtained from the previous phase. This class performs tasks such as stemming, lemmatizing, and removing stopwords to create a clean dataset for further analysis. NLTK library is used for text preprocessing.
 2. Statistical comparison: The project includes statistical comparisons between different values within the dataset. This analysis provides insights into the distribution and relationships of the data. Matplotlib is utilized for visualizing the statistical comparisons.
@@ -19,4 +19,4 @@ Phase 2 consists of the following parts:
 
 ## Phase 2: BERT Vectorization and Clustering (Python, BERT)
 
-In the final phase, the clean dataset obtained from Phase 2 is used. The data is converted into numerical vectors using BERT, which captures the semantic meaning of the text. These vectors are then utilized to implement various clustering algorithms, such as K-means, DBSCAN, or Agglomerative Clustering. The outputs of the clustering, along with any evaluation metrics, are visualized using Matplotlib.
+In the final phase, the clean dataset obtained from Phase 1 is used. The data is converted into numerical vectors using BERT, which captures the semantic meaning of the text. These vectors are then utilized to implement various clustering algorithms, such as K-means, DBSCAN, or Agglomerative Clustering. The outputs of the clustering, along with any evaluation metrics, are visualized using Matplotlib.
